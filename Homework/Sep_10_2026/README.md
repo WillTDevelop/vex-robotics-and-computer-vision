@@ -1,6 +1,6 @@
 # Sep 10 2026 Homework
 ## Reflection
-Today (or yesterday...? Since this is committed Sep 11 2026) we watched a video on how to chunk.
+Today (or yesterday...? Since this is committed on Sep 11 2026) we watched a video on how to chunk.
 <br>
 ### Main idea
 The video was mainly talking about the stuff you have to do to create a chunk in your mind/brain.
